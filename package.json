@@ -1,0 +1,12 @@
+{
+  "name": "insomnia-plugin-extra-themes",
+  "version": "1.0.0",
+  "description": "Additional themes for Insomnia REST client",
+  "license": "MIT",
+  "author": "mikemcbride",
+  "main": "index.js",
+  "insomnia": {
+    "name": "extra-themes",
+    "description": "Additional themes for the Insomnia REST client"
+  }
+}
