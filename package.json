@@ -4,6 +4,10 @@
   "description": "Additional themes for Insomnia REST client",
   "license": "MIT",
   "author": "mikemcbride",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/mikemcbride/insomnia-plugin-extra-themes"
+	},
   "main": "index.js",
   "insomnia": {
     "name": "extra-themes",
