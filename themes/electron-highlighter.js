@@ -20,7 +20,6 @@
       surprise: '#fff',
       info: '#fff'
     },
-    // comment
     highlight: {
       default: 'rgba(100, 114, 136, 1)',
       xxs: 'rgba(100, 114, 136, 0.05)',
