@@ -17,7 +17,7 @@ theme: {
   background: {
     default: white,
     success: green,
-    notice: cyan,
+    notice: yellow,
     warning: yellow,
     danger: red,
     surprise: purple,
@@ -33,29 +33,29 @@ theme: {
     info: white
   },
   highlight: {
-    default: 'rgba(2, 97, 220, 1)',
-    xxs: 'rgba(2, 97, 220, 0.05)',
-    xs: 'rgba(2, 97, 220, 0.1)',
-    sm: 'rgba(2, 97, 220, 0.2)',
-    md: 'rgba(2, 97, 220, 0.4)',
-    lg: 'rgba(2, 97, 220, 0.6)',
-    xl: 'rgba(2, 97, 220, 0.8)'
+    default: black,
+    xxs: 'rgba(66, 76, 87, 0.05)',
+    xs: 'rgba(66, 76, 87, 0.1)',
+    sm: 'rgba(66, 76, 87, 0.2)',
+    md: 'rgba(66, 76, 87, 0.4)',
+    lg: 'rgba(66, 76, 87, 0.6)',
+    xl: 'rgba(66, 76, 87, 0.8)'
   },
   styles: {
     sidebar: {
       background: {
-        default: '#e7ebef'
+        default: nearWhite
       }
     },
     dialog: {
       background: {
-        default: nearWhite
+        default: white
       }
     },
     paneHeader: {
       background: {
         success: green,
-        notice: cyan,
+        notice: yellow,
         warning: yellow,
         danger: red,
         surprise: purple,
