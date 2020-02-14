@@ -14,12 +14,12 @@
     },
     foreground: {
       default: '#A6ACCD',
-      success: '#a6accd',
-      notice: '#a6accd',
-      warning: '#a6accd',
-      danger: '#a6accd',
-      surprise: '#a6accd',
-      info: '#a6accd'
+      success: '#fff',
+      notice: '#fff',
+      warning: '#fff',
+      danger: '#fff',
+      surprise: '#fff',
+      info: '#fff'
     },
     highlight: {
       default: 'rgba(103, 110, 149, 1)',
