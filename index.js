@@ -3,5 +3,6 @@ module.exports.themes = [
   require('./themes/dracula'),
   require('./themes/early-riser'),
   require('./themes/electron-highlighter'),
-  require('./themes/oceanic-next')
+  require('./themes/oceanic-next'),
+  require('./themes/material-palenight')
 ];

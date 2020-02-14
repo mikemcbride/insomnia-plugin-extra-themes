@@ -8,6 +8,8 @@ This is a plugin for [Insomnia REST client](https://insomnia.rest) that adds add
 - Dracula
 - Oceanic Next
 - Cobalt2
+- Early Riser
+- Material Palenight
 
 ## Installation
 
