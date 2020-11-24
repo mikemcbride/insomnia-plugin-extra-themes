@@ -11,6 +11,7 @@ This is a plugin for [Insomnia REST client](https://insomnia.rest) that adds add
 - Cobalt Next
 - Early Riser
 - Material Palenight
+- Zenburn
 
 ## Installation
 
