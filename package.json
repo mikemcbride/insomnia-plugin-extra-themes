@@ -11,6 +11,7 @@
   "main": "index.js",
   "insomnia": {
     "name": "extra-themes",
+    "displayName": "Extra Themes",
     "description": "Additional themes for the Insomnia REST client"
   }
 }
