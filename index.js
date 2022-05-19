@@ -4,6 +4,7 @@ module.exports.themes = [
   require('./themes/dracula'),
   require('./themes/early-riser'),
   require('./themes/electron-highlighter'),
+  require('./themes/gruvbox-material'),
   require('./themes/oceanic-next'),
   require('./themes/material-palenight'),
   require('./themes/zenburn')
