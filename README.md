@@ -4,13 +4,14 @@ This is a plugin for [Insomnia REST client](https://insomnia.rest) that adds add
 
 ## Themes
 
-- Electron Highlighter
-- Dracula
-- Oceanic Next
 - Cobalt2
 - Cobalt Next
+- Dracula
 - Early Riser
+- Electron Highlighter
+- Gruvbox Material
 - Material Palenight
+- Oceanic Next
 - Zenburn
 
 ## Installation
